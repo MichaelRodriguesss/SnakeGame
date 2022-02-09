@@ -3,7 +3,12 @@
 ---
 
 ## Languages and Tools:
+- ### HTML
 
-### HTML
-### CSS
-### JavaScript
+- ### JavaScript
+
+---
+
+# Projeto desenvolvido com Propósito de trazer Diversão 😉👌
+
+<img src=""</img>
