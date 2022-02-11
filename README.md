@@ -9,7 +9,7 @@
 
 ---
 
-# Projeto desenvolvido com Propósito de trazer Diversão 😉👌
+# Project developed with Purpose to bring Fun 😉👌
 
 <h1 align="center">
 <img src="/ezgif.com-gif-maker.gif" alt="video" />
